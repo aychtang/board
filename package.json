@@ -1,0 +1,22 @@
+{
+  "name": "n-board",
+  "version": "0.0.0",
+  "description": "Create an n by n board modeled as a 2d array.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cheeseen/board.git"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/cheeseen/board/issues"
+  },
+  "homepage": "https://github.com/cheeseen/board",
+  "dependencies": {
+    "tape": "~2.12.3"
+  }
+}
