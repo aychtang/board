@@ -26,17 +26,17 @@ var c = board(3, {dead: true});
 /*
   c === [
     [
-      {dead:true},
+      {dead: true},
       {dead: true},
       {dead: true}
     ],
     [
-      {dead:true},
+      {dead: true},
       {dead: true},
       {dead: true}
     ],
     [
-      {dead:true},
+      {dead: true},
       {dead: true},
       {dead: true}
     ]
