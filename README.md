@@ -20,4 +20,34 @@ var b = board(3);
     [undefined, undefined, undefined]
   ];
 */
+
+var c = board(3, {dead: true});
+
+/*
+  c === [
+    [
+      {dead:true},
+      {dead: true},
+      {dead: true}
+    ],
+    [
+      {dead:true},
+      {dead: true},
+      {dead: true}
+    ],
+    [
+      {dead:true},
+      {dead: true},
+      {dead: true}
+    ]
+  ];
+*/
+
+var d = board(2, function(i, j) {
+  return i + j;
+});
+
+/*
+  d === [[0, 1], [1, 2]];
+*/
 ```
