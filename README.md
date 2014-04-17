@@ -5,7 +5,7 @@ Module for generating n by n grids modeled as a 2d array. For people who like n 
 
 ## Interface
 
-### board(n)
+### board(n, values)
 
 Returns a 2d array of size n, filled with undefined elements.
 
