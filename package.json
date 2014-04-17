@@ -1,6 +1,6 @@
 {
   "name": "n-board",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Create an n by n board modeled as a 2d array.",
   "main": "index.js",
   "scripts": {
